@@ -1,0 +1,4 @@
+include ':lib_video_upload'
+include ':lib_cos'
+include ':app'
+rootProject.name = "COSLibrary"
